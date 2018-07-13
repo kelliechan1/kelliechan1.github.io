@@ -1,0 +1,66 @@
+h1{
+  color: black;
+  fontsize: 38px;
+}
+p{
+  text-align: left;
+}
+h1{
+  background-color:
+yellow;
+}
+h3{
+  background-color:
+yellow;
+}
+
+/* Image Sizing and Shift */
+.myImage {
+  float: right;
+  width: 9%;
+}
+.myImage2{
+  float: right;
+  width: 18%;
+}
+.myImage3{
+  float:right;
+  width: 18%;
+}
+.myImage4{
+  float:right;
+  width:27%;
+}
+.myImage5{
+float: right;
+width:19.4%;
+}
+.myImage6{
+float: right;
+width:100%;
+}
+
+/* Navigation Bar */
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: white;
+  }
+
+  li {
+      float: left;
+  }
+
+  li a {
+      display: block;
+      color: yellow
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+  }
+
+  li a:hover {
+      background-color: lightgray;
+  }
